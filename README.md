@@ -3,7 +3,7 @@ Hi, I'm an Python engineer.
 
 <h2> My Skill </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,fastapi,linux,mysql,docker,figma,github,postman,githubactions,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,fastapi,linux,mysql,sqlite,docker,figma,postman,github,githubactions,gcp)](https://skillicons.dev)
 
  <h2> Status </h2>
 
