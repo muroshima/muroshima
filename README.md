@@ -1,5 +1,5 @@
 <h2> About Muroshima </h2>
-Hi, I'm an Python engineer. 🤝
+Hi, I'm an Python engineer. 
 
 <h2> My Skill </h2>
 
