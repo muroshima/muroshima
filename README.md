@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
 </a>
