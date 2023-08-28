@@ -1,3 +1,4 @@
+<dev style=”color:green;”>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
 </a>
@@ -13,3 +14,4 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=muroshima&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
 </a>
+</dev>
