@@ -2,33 +2,36 @@
 
 Hi, I'm <b>Yuto Muroshima</b>, a <b>Data Engineer</b> based in Tokyo, Japan 🇯🇵
 
-By day I build <b>data platforms and analytics pipelines on Snowflake</b>, modeled with dbt and orchestrated with TROCCO.
+I build <b>data platforms and analytics pipelines</b>, mainly on <b>Snowflake</b> and <b>Google Cloud</b>.
 Off hours I build <b>full-stack apps and AI agents</b>, and compete on Kaggle.
-
-<ul>
-  <li>Data platform design and implementation on Snowflake (layered warehouse modeling with dbt)</li>
-  <li>ELT pipeline development and operations with TROCCO, delivered to BI (Tableau)</li>
-  <li>LLM / agent features on Snowflake Cortex (Cortex Agent, Semantic Views, Cortex AI functions)</li>
-  <li>Infrastructure as Code with Terraform, CI/CD with GitHub Actions</li>
-  <li>Personal projects: AI agents, full-stack web apps, and Kaggle competitions</li>
-</ul>
 
 ---
 
 <h2> Tech Stack </h2>
 
-<h3> Data Platform & Analytics Engineering </h3>
+<h3> Data Platform & Cloud </h3>
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logoColor=white)
 ![TROCCO](https://img.shields.io/badge/TROCCO-0F9D58?style=flat-square&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Dataform](https://img.shields.io/badge/Dataform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=flat-square&logo=googlecloudcomposer&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googledataflow&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlepubsub&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloudstorage&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 <h3> AI / ML </h3>
 
 ![Snowflake Cortex](https://img.shields.io/badge/Snowflake%20Cortex-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery ML](https://img.shields.io/badge/BigQuery%20ML-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -52,8 +55,6 @@ Off hours I build <b>full-stack apps and AI agents</b>, and compete on Kaggle.
 <h3> Infrastructure & Tooling </h3>
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -63,15 +64,15 @@ Off hours I build <b>full-stack apps and AI agents</b>, and compete on Kaggle.
 
 <h2> Certifications </h2>
 
-| Certification | Issuer | Issued |
-| --- | --- | --- |
-| SnowPro Core Certification | Snowflake Inc. | 2026-06 |
-| Google Cloud Certified - Professional Machine Learning Engineer | Google Cloud | 2025-08 |
-| Certified ScrumMaster® (CSM®) | Scrum Alliance | 2025-07 |
-| Google Cloud Certified - Professional Cloud Security Engineer | Google Cloud | 2025-05 |
-| Google Cloud Certified - Professional Data Engineer | Google Cloud | 2025-02 |
-| データサイエンス数学ストラテジスト 上級 (Data Science Math Strategist, Advanced) | 公益財団法人 日本数学検定協会 | 2024-10 |
-| JDLA Deep Learning for GENERAL (G検定) | 一般社団法人 日本ディープラーニング協会 (JDLA) | 2024-07 |
+| Certification | Issuer |
+| --- | --- |
+| SnowPro Core Certification | Snowflake Inc. |
+| Google Cloud Certified - Professional Machine Learning Engineer | Google Cloud |
+| Certified ScrumMaster® (CSM®) | Scrum Alliance |
+| Google Cloud Certified - Professional Cloud Security Engineer | Google Cloud |
+| Google Cloud Certified - Professional Data Engineer | Google Cloud |
+| データサイエンス数学ストラテジスト 上級 (Data Science Math Strategist, Advanced) | 公益財団法人 日本数学検定協会 |
+| JDLA Deep Learning for GENERAL (G検定) | 一般社団法人 日本ディープラーニング協会 (JDLA) |
 
 ---
 
@@ -82,17 +83,6 @@ Off hours I build <b>full-stack apps and AI agents</b>, and compete on Kaggle.
 </a>
 
 Competing mainly in simulation / agent-based competitions. Tier and medals above update automatically — see my [Kaggle profile](https://www.kaggle.com/yutomuroshima) for the latest.
-
----
-
-<h2> Projects </h2>
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Hinan-Navi-Tokyo](https://github.com/muroshima/Hinan-Navi-Tokyo) | Disaster-evacuation navigator that suggests shelters a person with special needs can actually reach, from natural-language input | Next.js, TypeScript, Claude, Tokyo Open Data |
-| [DevPath-Navigator](https://github.com/muroshima/DevPath-Navigator) | AI agent suggesting an engineer's next career step from the trajectories of similar engineers | Cloud Run, ADK, Gemini, BigQuery VECTOR_SEARCH |
-| [orbit-wars](https://github.com/muroshima/orbit-wars) | Kaggle Orbit Wars simulation competition — agent for satellite maneuvering | Python, heuristic search |
-| [neurogolf-2026](https://github.com/muroshima/neurogolf-2026) | Kaggle NeuroGolf — minimal ONNX networks that solve ARC-AGI tasks | Python, ONNX |
 
 ---
 
