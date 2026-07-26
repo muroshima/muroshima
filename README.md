@@ -18,6 +18,10 @@
   Off hours I build <b>full-stack apps and AI agents</b>, and compete on Kaggle.
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muroshima/muroshima/main/assets/gorilla.svg" alt="An animated gorilla drumming its chest" width="260" />
+</div>
+
 <h2 align="center">Tech Stack</h2>
 
 <p align="center"><b>Data Platform &amp; Cloud</b></p>
