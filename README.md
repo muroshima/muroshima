@@ -61,6 +61,20 @@ Off hours I build <b>full-stack apps and AI agents</b>, and compete on Kaggle.
 
 ---
 
+<h2> Certifications </h2>
+
+| Certification | Issuer | Issued |
+| --- | --- | --- |
+| SnowPro Core Certification | Snowflake Inc. | 2026-06 |
+| Google Cloud Certified - Professional Machine Learning Engineer | Google Cloud | 2025-08 |
+| Certified ScrumMaster® (CSM®) | Scrum Alliance | 2025-07 |
+| Google Cloud Certified - Professional Cloud Security Engineer | Google Cloud | 2025-05 |
+| Google Cloud Certified - Professional Data Engineer | Google Cloud | 2025-02 |
+| データサイエンス数学ストラテジスト 上級 (Data Science Math Strategist, Advanced) | 公益財団法人 日本数学検定協会 | 2024-10 |
+| JDLA Deep Learning for GENERAL (G検定) | 一般社団法人 日本ディープラーニング協会 (JDLA) | 2024-07 |
+
+---
+
 <h2> Kaggle </h2>
 
 <a href="https://www.kaggle.com/yutomuroshima">
