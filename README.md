@@ -64,7 +64,7 @@ Off hours I build <b>full-stack apps and AI agents</b>, and compete on Kaggle.
 <h2> Kaggle </h2>
 
 <a href="https://www.kaggle.com/yutomuroshima">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yutomuroshima/competition" height="180px" alt="Kaggle Competitions tier and medals" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yutomuroshima/competition" height="180" alt="Kaggle Competitions tier and medals" />
 </a>
 
 Competing mainly in simulation / agent-based competitions. Tier and medals above update automatically — see my [Kaggle profile](https://www.kaggle.com/yutomuroshima) for the latest.
@@ -85,17 +85,17 @@ Competing mainly in simulation / agent-based competitions. Tier and medals above
 <h2> Contribution </h2>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" alt="Profile details" />
+  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/0-profile-details.svg" height="220" alt="Profile details" />
 </a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/3-stats.svg" height="220px" alt="Contribution stats" />
+  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/3-stats.svg" height="220" alt="Contribution stats" />
 </a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/1-repos-per-language.svg" height="220px" alt="Repos per language" />
+  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/1-repos-per-language.svg" height="220" alt="Repos per language" />
 </a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/2-most-commit-language.svg" height="220px" alt="Most commit language" />
+  <img align="center" src="https://raw.githubusercontent.com/muroshima/muroshima/main/profile-summary-card-output/github/2-most-commit-language.svg" height="220" alt="Most commit language" />
 </a>
