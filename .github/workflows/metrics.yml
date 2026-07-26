@@ -36,15 +36,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
 
-      # Coding habits — commit time distribution and recently used languages
-      - name: Habits
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
-          filename: assets/metrics-habits.svg
-          base: ""
-          config_timezone: Asia/Tokyo
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
