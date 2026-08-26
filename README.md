@@ -99,10 +99,20 @@
 <div align="center">
   <table>
     <thead>
-      <tr><th>Event</th><th>Result</th><th>Date</th></tr>
+      <tr><th>Event</th><th>Project</th><th>Result</th></tr>
     </thead>
     <tbody>
-      <tr><td><a href="https://lp.geechs-job.com/event/hackathon0822">geechs Hackathon — "Moraiwasure Zero"</a></td><td>🏆 1st Place</td><td>Aug 2026</td></tr>
+      <tr>
+        <td>
+          <a href="https://lp.geechs-job.com/event/hackathon0822">geechs AI HACKATHON 2026</a><br />
+          <sub>Aug 2026 · Theme: solving social issues with AI</sub>
+        </td>
+        <td>
+          <b>Moraiwasure Zero</b> — <a href="https://youtu.be/guRMAThbpHw">demo video</a><br />
+          <sub>Turns Japan's application-only welfare system into support that finds you</sub>
+        </td>
+        <td>🏆 1st Place</td>
+      </tr>
     </tbody>
   </table>
 </div>
