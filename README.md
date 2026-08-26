@@ -94,6 +94,19 @@
   </table>
 </div>
 
+<h2 align="center">Hackathons</h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr><th>Event</th><th>Result</th><th>Date</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="https://lp.geechs-job.com/event/hackathon0822">geechs Hackathon — "Moraiwasure Zero"</a></td><td>🏆 1st Place</td><td>Aug 2026</td></tr>
+    </tbody>
+  </table>
+</div>
+
 <h2 align="center">Kaggle</h2>
 
 <p align="center">
